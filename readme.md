@@ -45,7 +45,7 @@ node index.js
 
 ## 🛠 Configuration
 
-### Logging (Menggunakan Winston)
+### Logging (Menggunakan Library [Winston](https://github.com/winstonjs/winston))
 
 Logger diatur dalam `logger.js` dan dapat dikonfigurasi sesuai kebutuhan:
 
